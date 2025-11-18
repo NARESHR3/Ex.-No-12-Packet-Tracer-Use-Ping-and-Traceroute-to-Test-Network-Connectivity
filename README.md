@@ -145,7 +145,7 @@ R3 :
 
 <img width="1919" height="1058" alt="Screenshot 2025-10-28 113138" src="https://github.com/user-attachments/assets/ada5eaf1-f379-44a4-9832-29eb2ef7a7b5" />
 
-<img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/ffa8ac4e-ecb2-4a4b-84e8-358e19762117" />
+
 
 
 • Successful ping results after fixes.<br>
@@ -162,6 +162,7 @@ PC-2 and PC-4 :
 <img width="1919" height="1199" alt="Screenshot 2025-10-28 112559" src="https://github.com/user-attachments/assets/6a8d7f59-530e-456d-935c-00babc79b3b5" />
 
 Activity Result :
+<img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/ffa8ac4e-ecb2-4a4b-84e8-358e19762117" />
 
 
 # Result
